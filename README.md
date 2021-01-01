@@ -19,8 +19,10 @@ I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and h
 
 📄 Resume : updated coming soon 
 
-### Languages and Tools-
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/czniM8fZNhuqh7MpEF/giphy.gif" width="360"/>
+
+### Languages and Tools-
 
 UI/UX Designing :
 
