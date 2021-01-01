@@ -1,12 +1,10 @@
-
-
 <!--
 **guptavishesh143/guptavishesh143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
 
-### Hi there 👋 My name is Vishesh Gupta
+Hi there 👋 My name is Vishesh Gupta
 
 I am a UI/UX front-end Engineer, LinkedIn Creater, Open Source Contributor and a Speaker!
 
