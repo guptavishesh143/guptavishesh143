@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Vishesh Gupta! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) ![visitors](https://hit-badger.glitch.me/badge?page_id=bhav09.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp;  ![visitors](https://hit-badger.glitch.me/badge?page_id=guptavishesh143.id)
 
 
 I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
@@ -25,12 +25,10 @@ I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and h
 UI/UX Designing :
 
 | Adobe XD | Figma |
-| :---: | :---: | :---: | :---: | :---: |
 
 Cross-platform Application : Flutter
 
 | Material UI | Google Map |
-| :---: | :---: | :---: | :---: | :---: |
 
 Web Development: 
 
