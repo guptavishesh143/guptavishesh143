@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Vishesh Gupta
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; ![visitors](https://hit-badger.glitch.me/badge?page_id=guptavishesh143.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; 
 
 <!--
 *bhav09/bhav09* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
