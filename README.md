@@ -48,7 +48,9 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 | Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+Mobile Application Development : React-Native Libraries 
+
+| Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper |
 | :---: | :---: | :---: | :---: | :---: |
 
 ![](https://github-readme-stats.vercel.app/api?username=guptavishesh143&show_icons=true&line_height=30)
