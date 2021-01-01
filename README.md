@@ -1,48 +1,60 @@
-### Hi there 👋
+
 
 <!--
 **guptavishesh143/guptavishesh143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_rIPcWl.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+### Hi there 👋 My name is Vishesh Gupta
+
+I am a UI/UX front-end Engineer, LinkedIn Creater, Open Source Contributor and a Speaker!
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishesh-gupta-82730615a/)&nbsp;
+
+
  
+🌱 I’m currently exploring: React- Animation, AWS 
 
-🌱 I’m currently exploring: Deep Learning
+🔭 I’m currently working on : React-Redux , FLux.
 
-🔭 I’m currently working on : Deep Learning with Pytorch.
-
-💬 Ask me about: Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 Ask me about: React js, React-Native, Flutter. Html, Css Framework.
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : https://rebrand.ly/click_to_view_resume 
+📄 Resume : Coming Soon 
 
 ### Languages and Tools-
 
+UI/UX Designing :
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
+Adobe XD | Figma
+| :---: | :---: | :---: | :---: | :---: |
+
+Web Development: 
+
+| Html | Css | BootStrap | React js  |
 | :---: | :---: | :---: | :---: | :---: |
 
 
-| Selenium | C | SQL | Pytorch | Numpy |
+Mobile Application Development :
+
+React-Native
+
+React-Native Css used StyleSheet | BootStrap | Material UI | TailwindCss | React-Native Elements | Lottie | Google Map | React-Native Paper
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
-| :---: | :---: | :---: | :---: | :---: |
+Cross-platform Application :
 
-![](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&line_height=30)
+flutter :
+
+Material UI | Google Map
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=guptavishesh143&show_icons=true&line_height=30)
