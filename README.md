@@ -33,24 +33,29 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : https://rebrand.ly/click_to_view_resume 
+📄 Resume : updated coming soon 
 
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
+UI/UX Designing :
+
+| Adobe XD | Figma |
 | :---: | :---: | :---: | :---: | :---: |
 
+Web Development: 
 
-| Selenium | C | SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
+| Html  | Css  | BootStrap  | React js | TailwindCss |
 | :---: | :---: | :---: | :---: | :---: |
 
 Mobile Application Development : React-Native Libraries 
 
 | Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper |
+| :---: | :---: | :---: | :---: | :---: |
+
+Cross-platform Application : Flutter
+
+| Material UI | Google Map |
 | :---: | :---: | :---: | :---: | :---: |
 
 ![](https://github-readme-stats.vercel.app/api?username=guptavishesh143&show_icons=true&line_height=30)
