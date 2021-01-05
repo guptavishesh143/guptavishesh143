@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Vishesh Gupta! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp;  ![visitors](https://hit-badger.glitch.me/badge?page_id=guptavishesh143.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; 
 
 
 I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
@@ -11,7 +11,7 @@ I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and h
 
 🔭 I’m currently working on : React-Redux , FLux.
 
-💬 Ask me about: React js, React-Native, Flutter. Html, Css Framework.
+💬 Ask me about: Adobe Xd, React js, React-Native, Flutter. Html, Css Framework.
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
