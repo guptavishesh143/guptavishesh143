@@ -26,7 +26,7 @@ I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and h
 
 UI/UX Designing :
 
-| Adobe XD | Figma |
+| Adobe XD | Figma | Sketch
 
 Cross-platform Application : Flutter
 
@@ -39,7 +39,7 @@ Web Development:
 
 Mobile Application Development : React-Native Libraries 
 
-| Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper |
+| Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper | Firebase | Stripe 
 | :---: | :---: | :---: | :---: | :---: |
 
 
