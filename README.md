@@ -1,26 +1,19 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5x1tfz1wRP5HHwDbf2/giphy.gif" width="360"/>
 
 ### Hi there 👋 My name is Vishesh Gupta! 
+an enthusiastic entrepreneur, and self-learner with a passion for creating innovative things. My journey in the tech world has been an exciting one, and I thrive on bringing fresh ideas to life.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishesh-gupta-82730615a/)&nbsp; 
-[![Behance]()](https://www.behance.net/guptavishesh143)
+💡 As a font-end expert, I specialize in React and React Native, crafting seamless user experiences through captivating UI/UX designs. My keen eye for detail allows me to deep dive into user interactions, ensuring that every project I work on is user-centric and intuitive.
 
-I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
+🚀 I absolutely love turning ideas into reality, and you'll often find me busy building new websites, mobile apps, and crafting stunning UI designs using tools like XD, Figma, and Sketch.
 
-🌱 I’m currently exploring: React-Animation, AWS 
+🌟 In addition to my technical expertise, I possess exceptional leadership skills. Throughout my career, I have had the privilege of mentoring numerous individuals and guiding them to success. I find great joy in helping others grow and thrive in the tech industry.
 
-🔭 I’m currently working on : React-Redux , FLux.
+💪 When it comes to implementation, I'm a problem-solver at heart. I approach each and every task with a determined mindset, always seeking the most effective and efficient solutions. Challenges fuel my determination, and I take pride in delivering high-quality results.
 
-💬 Ask me about: Adobe Xd, React js, React-Native, Flutter. Html, Css Framework.
+📚 Continuously learning and staying up-to-date with the latest trends in technology is my driving force. I believe that there is always something new to discover, and I eagerly embrace every opportunity to expand my skillset.
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
-
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
-
-📄 Resume : updated coming soon 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/czniM8fZNhuqh7MpEF/giphy.gif" width="360"/>
+Let's connect and embark on an exciting journey together in the world of tech and innovation!
 
 ### Languages and Tools-
 
@@ -43,5 +36,15 @@ Mobile Application Development : React-Native Libraries
 | :---: | :---: | :---: | :---: | :---: |
 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishesh-gupta-82730615a/)&nbsp; 
+[![Behance]()](https://www.behance.net/guptavishesh143)
+
+I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
+
+🌱 I’m currently exploring: React-Animation, AWS 
+
+🔭 I’m currently working on : React-Redux , FLux.
+
+💬 Ask me about: Adobe Xd, React js, React-Native, Flutter. Html, Css Framework.
 
 ![](https://github-readme-stats.vercel.app/api?username=guptavishesh143&show_icons=true&line_height=30)
