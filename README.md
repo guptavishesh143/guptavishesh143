@@ -2,8 +2,9 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vishesh-gupta-82730615a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vishesh-gupta-82730615a?trk=profile-badge">Vishesh Gupta</a></div>
 
-![](https://komarev.com/ghpvc/?username=bhav09&style=flat-square)
-              
+[![](https://komarev.com/ghpvc/?username=guptavishesh143&style=flat-square)
+
+
 ### Hi there 👋 My name is Vishesh Gupta! 
 an enthusiastic entrepreneur, and self-learner with a passion for creating innovative things. My journey in the tech world has been an exciting one, and I thrive on bringing fresh ideas to life.
 
