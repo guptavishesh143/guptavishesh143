@@ -26,16 +26,12 @@ Let's connect and embark on an exciting journey together in the world of tech an
 ### Languages and Tools-
 
 UI/UX Designing : | Adobe XD | Figma | Sketch
-| :---: | :---: | :---: | :---: | :---: |
 
 Cross-platform Mobile Application : Flutter | React Native 
-| :---: | :---: | :---: | :---: | :---: |
 
 Web Skills :  React js | Next js
-| :---: | :---: | :---: | :---: | :---: |
 
 Developed with: | Html  | Css  | BootStrap  | Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper | Firebase | Stripe 
-| :---: | :---: | :---: | :---: | :---: |
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishesh-gupta-82730615a/)&nbsp; 
