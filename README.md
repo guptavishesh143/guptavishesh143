@@ -7,8 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=guptavishesh143&style=flat-square)
 
 
-### Hi there 👋 My name is Vishesh Gupta! 
-an enthusiastic entrepreneur, and self-learner with a passion for creating innovative things. My journey in the tech world has been an exciting one, and I thrive on bringing fresh ideas to life.
+### Hi there 👋 My name is Vishesh Gupta! || Founder of Indian Customer Web Services <a>https://icws.in<a/>
+
+An enthusiastic entrepreneur, and self-learner with a passion for creating innovative things. My journey in the tech world has been an exciting one, and I thrive on bringing fresh ideas to life.
 
 💡 As a font-end expert, I specialize in React and React Native, crafting seamless user experiences through captivating UI/UX designs. My keen eye for detail allows me to deep dive into user interactions, ensuring that every project I work on is user-centric and intuitive.
 
@@ -24,29 +25,23 @@ Let's connect and embark on an exciting journey together in the world of tech an
 
 ### Languages and Tools-
 
-UI/UX Designing :
-
-| Adobe XD | Figma | Sketch
-
-Cross-platform Application : Flutter
-
-| Material UI | Google Map |
-
-Web Development: 
-
-| Html  | Css  | BootStrap  | React js | TailwindCss |
+UI/UX Designing : | Adobe XD | Figma | Sketch
 | :---: | :---: | :---: | :---: | :---: |
 
-Mobile Application Development : React-Native Libraries 
+Cross-platform Mobile Application : Flutter | React Native 
+| :---: | :---: | :---: | :---: | :---: |
 
-| Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper | Firebase | Stripe 
+Web Skills :  React js | Next js
+| :---: | :---: | :---: | :---: | :---: |
+
+Developed with: | Html  | Css  | BootStrap  | Material UI | BootStrap | TailwindCss | Google-Map | React-Native Paper | Firebase | Stripe 
 | :---: | :---: | :---: | :---: | :---: |
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishesh-gupta-82730615a/)&nbsp; 
 [![Behance]()](https://www.behance.net/guptavishesh143)
 
-I am a UI/UX front-end Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
+I am a Full Stack Engineer, LinkedIn Creator, Open Source Contributor and have great Leadership skill ! 
 
 🌱 I’m currently exploring: React-Animation, AWS 
 
