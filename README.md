@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=guptavishesh143&style=flat-square)
 
 
-### Hi there 👋 My name is Vishesh Gupta! || Founder of Indian Customer Web Services <a>https://icws.in<a/>
+### Hi there 👋 My name is Vishesh Gupta! 
 
 An enthusiastic entrepreneur, and self-learner with a passion for creating innovative things. My journey in the tech world has been an exciting one, and I thrive on bringing fresh ideas to life.
 
